@@ -1,0 +1,24 @@
+{
+  "number": 38,
+  "product_id": "JLZ-EDU-SK-032",
+  "chinese_name": "错因分析",
+  "english_name": "Error Cause Analyzer",
+  "repository_name": "edu-error-cause-analyzer",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-error-cause-analyzer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "题目、学生答案、正确答案、步骤、知识点和教师补充观察",
+  "main_output": "错因分类、错误步骤、知识/方法缺口、验证问题和建议练习",
+  "package_entries": [
+    "edu-error-cause-analyzer/SKILL.md",
+    "edu-error-cause-analyzer/references/DOMAIN_GUIDE.md",
+    "edu-error-cause-analyzer/references/EXAMPLES.md",
+    "edu-error-cause-analyzer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-032",
+  "repository_name": "edu-error-cause-analyzer",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-error-cause-analyzer-v1.0.0.zip",
+  "sha256": "FE67F3AAD619A176DBD7F6D2AB6EECF41A505E47047740C5CEB7BCB88A8A4AD6",
+  "bytes": 4797,
+  "entries": [
+    "edu-error-cause-analyzer/SKILL.md",
+    "edu-error-cause-analyzer/references/DOMAIN_GUIDE.md",
+    "edu-error-cause-analyzer/references/EXAMPLES.md",
+    "edu-error-cause-analyzer/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:16:04.0948116+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
