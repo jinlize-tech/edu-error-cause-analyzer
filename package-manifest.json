@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-032",
   "repository_name": "edu-error-cause-analyzer",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-error-cause-analyzer-v1.0.0.zip",
-  "sha256": "FE67F3AAD619A176DBD7F6D2AB6EECF41A505E47047740C5CEB7BCB88A8A4AD6",
-  "bytes": 4797,
+  "version": "1.0.1",
+  "package_path": "dist/edu-error-cause-analyzer-v1.0.1.zip",
+  "sha256": "90E0C9546EAACB03100A55FB27F50D5ADC1C2F677DFECE749F2E02AD5F16EF62",
+  "bytes": 14421,
   "entries": [
     "edu-error-cause-analyzer/SKILL.md",
     "edu-error-cause-analyzer/references/DOMAIN_GUIDE.md",
     "edu-error-cause-analyzer/references/EXAMPLES.md",
-    "edu-error-cause-analyzer/templates/OUTPUT_TEMPLATE.md"
+    "edu-error-cause-analyzer/templates/OUTPUT_TEMPLATE.md",
+    "edu-error-cause-analyzer/README.md",
+    "edu-error-cause-analyzer/USAGE.md",
+    "edu-error-cause-analyzer/LICENSE",
+    "edu-error-cause-analyzer/THIRD_PARTY_NOTICES.md",
+    "edu-error-cause-analyzer/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:16:04.0948116+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-error-cause-analyzer-v1.0.0.zip",
+  "previous_package_sha256": "FE67F3AAD619A176DBD7F6D2AB6EECF41A505E47047740C5CEB7BCB88A8A4AD6",
+  "built_at": "2026-11-07T09:12:59.4305565+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

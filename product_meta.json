@@ -6,19 +6,37 @@
   "repository_name": "edu-error-cause-analyzer",
   "product_type": "Skill",
   "category": "03 教学教研中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-error-cause-analyzer-v1.0.0.zip",
+  "baseline_commit": "032b43cc4d08fc8a3ef2a00193b87d9c5dc01276",
+  "package_path": "dist/edu-error-cause-analyzer-v1.0.1.zip",
+  "previous_package_path": "dist/edu-error-cause-analyzer-v1.0.0.zip",
+  "previous_package_sha256": "FE67F3AAD619A176DBD7F6D2AB6EECF41A505E47047740C5CEB7BCB88A8A4AD6",
   "calculator": false,
   "core_input": "题目、学生答案、正确答案、步骤、知识点和教师补充观察",
   "main_output": "错因分类、错误步骤、知识/方法缺口、验证问题和建议练习",
+  "main_output_fields": [
+    "错因分类",
+    "错误步骤",
+    "知识/方法缺口",
+    "验证问题和建议练习"
+  ],
   "package_entries": [
     "edu-error-cause-analyzer/SKILL.md",
     "edu-error-cause-analyzer/references/DOMAIN_GUIDE.md",
     "edu-error-cause-analyzer/references/EXAMPLES.md",
-    "edu-error-cause-analyzer/templates/OUTPUT_TEMPLATE.md"
+    "edu-error-cause-analyzer/templates/OUTPUT_TEMPLATE.md",
+    "edu-error-cause-analyzer/README.md",
+    "edu-error-cause-analyzer/USAGE.md",
+    "edu-error-cause-analyzer/LICENSE",
+    "edu-error-cause-analyzer/THIRD_PARTY_NOTICES.md",
+    "edu-error-cause-analyzer/scripts/validate_input.js"
   ]
 }
