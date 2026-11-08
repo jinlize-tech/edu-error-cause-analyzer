@@ -1,6 +1,9 @@
 {
+  "scenario_name": "incomplete",
+  "business_context": "用户在错因分析任务开始阶段只提供了少量资料。",
   "inputs": {
-    "题目": "已提供并确认：题目"
+    "题目": "标准合成场景｜错因分析的题目：已按合成业务口径准备",
+    "学生答案": "标准合成场景｜30名脱敏学生编号S001-S030（合成名单）"
   },
   "data_status": "confirmed",
   "conflicts": [],
